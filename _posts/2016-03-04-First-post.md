@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Introducing Hyde
+title: First Post
 ---
 
 This is My First Post to test the github.
