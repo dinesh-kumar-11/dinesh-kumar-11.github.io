@@ -6,9 +6,9 @@ highlighter:      rouge
 permalink:        pretty
 
 # Setup
-title:            Hyde
-tagline:          'A Jekyll theme'
-description:      'A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
+title:            Dinesh
+tagline:          'Dinesh Kumar Site'
+description:      'Software engineer, Reads a lot, Sleeps a lot.ஏன்?எதற்கு?எப்படி? போன்ற பல கேள்விகளை தினமும் சந்தித்து பதில் தேடி கொண்டிருக்கும் ஒரு சராசரி மனிதன் நான்.'
 url:              http://blog.dineshkumars.me
 baseurl:          /
 
@@ -22,4 +22,7 @@ paginate:         5
 version:          2.1.0
 
 github:
-  repo:           https://github.com/poole/hyde
+  repo:           https://github.com/dinesh-kumar-11
+
+stackoverflow
+  link:
