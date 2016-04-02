@@ -8,7 +8,7 @@ permalink:        pretty
 # Setup
 title:            Dinesh
 tagline:          'Dinesh Kumar Site'
-description:      'Software engineer, Reads a lot, Sleeps a lot'
+description:      'Software engineer, Reads a lot, Sleeps a lot.ஏன்?எதற்கு?எப்படி? போன்ற பல கேள்விகளை தினமும் சந்தித்து பதில் தேடி கொண்டிருக்கும் ஒரு சராசரி மனிதன் நான்.'
 url:              http://blog.dineshkumars.me
 baseurl:          /
 
@@ -26,3 +26,9 @@ github:
 
 stackoverflow:
   link:           http://stackexchange.com/users/247492/dinesh-kumar
+
+quora:
+  link:           https://www.quora.com/profile/Dinesh-Kumar-71
+
+flickr:
+   photostream:   https://www.flickr.com/photos/diniphotos/
