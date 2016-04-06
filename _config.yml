@@ -6,9 +6,9 @@ highlighter:      rouge
 permalink:        pretty
 
 # Setup
-title:            Dinesh
+title:            Dinesh Kumar Sarangapani
 tagline:          'Dinesh Kumar Site'
-description:      'Software engineer, Reads a lot, Sleeps a lot.ஏன்?எதற்கு?எப்படி? போன்ற பல கேள்விகளை தினமும் சந்தித்து பதில் தேடி கொண்டிருக்கும் ஒரு சராசரி மனிதன் நான்.'
+description:      'Software engineer, Tech and Photography'
 url:              http://blog.dineshkumars.me
 baseurl:          /
 
@@ -32,3 +32,10 @@ quora:
 
 flickr:
    photostream:   https://www.flickr.com/photos/diniphotos/
+
+dinesh:
+  home:         http://dineshkumars.me
+
+gems:
+  - jekyll-paginate
+  - jemoji
