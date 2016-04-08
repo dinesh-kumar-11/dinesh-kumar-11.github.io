@@ -36,6 +36,13 @@ flickr:
 dinesh:
   home:         http://dineshkumars.me
 
+sitemap:
+  lastmod: 2016-04-07
+  priority: 0.7
+  changefreq: 'weekly'
+  exclude: 'yes'
+
 gems:
   - jekyll-paginate
   - jemoji
+  - jekyll-sitemap
