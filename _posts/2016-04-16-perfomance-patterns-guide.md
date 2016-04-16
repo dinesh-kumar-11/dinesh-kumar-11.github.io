@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Performance debugging patterns and guide
+comments: true
 ---
 
 Working on 5 different kinds of project on performance improvement analysis, you get to know the pattern in performance debugging.
