@@ -9,7 +9,7 @@ permalink:        pretty
 title:            Dinesh Kumar Sarangapani
 tagline:          'Dinesh Kumar Site'
 description:      'Software engineer, Tech, Photography and Spritual'
-url:              http://blog.dineshkumars.me
+url:              http://blog.dineshkumars.info
 baseurl:          /
 
 author:
@@ -34,7 +34,7 @@ flickr:
    photostream:   https://www.flickr.com/photos/diniphotos/
 
 dinesh:
-  home:         http://dineshkumars.me
+  home:         http://dineshkumars.info
 
 sitemap:
   lastmod: 2016-04-07

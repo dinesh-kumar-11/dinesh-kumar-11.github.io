@@ -51,3 +51,4 @@ The remaining two types are Ashwini and Kumara.
 
 In total there are 33 Gods. 
 
+
